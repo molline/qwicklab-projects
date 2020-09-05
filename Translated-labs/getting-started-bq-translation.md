@@ -18,14 +18,15 @@ In this lab we will learn how to perform the following tasks
 
 	bq head [project_id]:logdata.accesslog
 
-2. Perform a query on data using the bq wweb UI
-	bq query "select int64_field_6 as hour, count(*) as hitcount from logdata.accesslog group by hour order by hour"
+2. Perform a query on data using the bq web UI
+
+	bq query "select int64_field_6 as hour, count( * ) as hitcount from logdata.accesslog group by hour order by hour"
 
 
 
 
 3. Perform a query on the data using the bq command
 
-	bq query "select string_field_10 as request, count(*) as requestcount from logdata.accesslog group by request order by requestcount desc" 
+	bq query "select string_field_10 as request, count( * ) as requestcount from logdata.accesslog group by request order by requestcount desc" 
 
 
