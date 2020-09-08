@@ -1,3 +1,7 @@
+#Course: Google Cloud Platform Fundamentals - Core Infrastructure
+
+#Module: Big Data and Machine Learning in the Cloud
+
 #LAB: GCP Fundamentals: Getting Started with BigQuery
 
 ##Objectives
