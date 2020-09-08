@@ -3,12 +3,16 @@
 ##Objectives
 
 In this lab we will learn how to perform the following tasks
-	-Load data from Cloud Storage into BigWuery
+
+	-Load data from Cloud Storage into BigQuery
+	
 	-Perform a query on the data in BigQuery
 
 ##Steps:
 
 1.	Loading data from Cloud Storage into BigQuery
+	
+	-Replace "[project_id]" with your project_ID
 	
 	bq --location=europewest1 mk --dataset logdata
 
