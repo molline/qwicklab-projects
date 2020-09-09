@@ -1,5 +1,5 @@
 # qwiklab-projects
-This project contains screenshots of qwiklabs projects on the following modules
+This project contains screenshots of qwiklabs projects on the following modules and translated lab instructions for 2 labs.
 
 Course: Google Cloud Platform Fundamentals - Core Infrastructure
 
@@ -50,7 +50,7 @@ Module: Classify Images with Pre-Built Models using Vision API and Cloud AutoML 
 Lab: Classify Images with Pre-built ML Models using Cloud Vision API and AutoML
 
 
-Translated Labs 
+#Translated Labs 
 
 1.Course: Google Cloud Platform Fundamentals - Core Infrastructure
 
