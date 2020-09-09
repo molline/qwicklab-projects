@@ -57,4 +57,6 @@ Translated Labs
 Module: Big Data and Machine Learning in the Cloud  ;
 GCP Fundamentals: Getting Started with BigQuery
 
-2.
+2.Course: Google Cloud Platform Big Data and Machine Learning Fundamentals
+
+MODULE: Introduction to Google Cloud Platform ; LAB: Explore a BigQuery Public dataset
